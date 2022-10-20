@@ -6,4 +6,4 @@ API link: https://apichallenges.herokuapp.com.
 To import a collection into Postman
 * Go to Collection
 * Click Import
-* Select the APIChallenges.postman_collection.json file.
+* Select the `APIChallenges.postman_collection.json` file.
